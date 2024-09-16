@@ -16,3 +16,5 @@ const price1 = 58000;
 
 console.log(product1);
 console.log(`The total amount of the product: ${count1 * price1} R `)
+
+const name =(prompt('Dress')) 
